@@ -7,11 +7,7 @@ const allBeers = function (inner, id){
 }
 
 const beerCardComponent = function (title, sub, text){
-    return `
-        <div class="card">
-        
-        </div>
-    `
+    return
 }
 
 const loadEvent = function (){
